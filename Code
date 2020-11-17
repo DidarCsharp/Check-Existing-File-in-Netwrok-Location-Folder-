@@ -1,0 +1,2 @@
+string curFile = @"\\dspanjeree\DBBKUP\EmpImg\"00001".jpg";
+ string Result = File.Exists(curFile) ? "File exists." : "No";
